@@ -1,5 +1,9 @@
 package com.au.demo;
 
 public class Demo {
-System.out.println("My frst git hubb Programs")
+	
+	public static void main(String args[]) {
+		System.out.println("My frst git hubb Programs");
+	}
+
 }
